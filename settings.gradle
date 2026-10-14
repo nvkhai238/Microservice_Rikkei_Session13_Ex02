@@ -1,0 +1,2 @@
+rootProject.name = 'Microservice_Rikkei_Session13_Ex02'
+include 'identity-service'
